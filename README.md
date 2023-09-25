@@ -1,7 +1,7 @@
 # Movie recommender system: Overview
 A Streamlit-based web application for a movie recommender system to help users discover personalized movie recommendations with ease. This project involved various steps, including data preprocessing, feature engineering, modeling, and the development of a user-friendly interface. <br>
 
-## Code and Resources used
+## Environment and Dependencies: 
 **Python Version:** 3.10.12 <br>
 **Packages:** pandas, numpy, ast, sklearn, nltk, pickle, streamlit <br>
 **For Web Framework Requirements:** pip install -r requirements.txt <br>
