@@ -1,5 +1,5 @@
 # Movie recommender system: Overview
-A Streamlit-based web application for a movie recommender system to help users discover personalized movie recommendations with an intuitive &amp; easy user interface. This project involved various steps, including data preprocessing, feature engineering, modeling, and the development of a user-friendly interface. <br>
+A Streamlit-based web application for a movie recommender system to help users discover personalized movie recommendations with ease. This project involved various steps, including data preprocessing, feature engineering, modeling, and the development of a user-friendly interface. <br>
 
 ## Code and Resources used
 **Python Version:** 3.10.12 <br>
